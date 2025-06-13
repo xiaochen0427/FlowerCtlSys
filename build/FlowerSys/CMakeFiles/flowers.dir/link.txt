@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xia/project/CMake/FlowerCtlSYs/lib/libflowers.a CMakeFiles/flowers.dir/Flowerinfo.cpp.o
+/usr/bin/ranlib /home/xia/project/CMake/FlowerCtlSYs/lib/libflowers.a

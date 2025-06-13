@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/xia/project/CMake/FlowerCtlSYs/lib/libtools.a CMakeFiles/tools.dir/Tools.cpp.o
+/usr/bin/ranlib /home/xia/project/CMake/FlowerCtlSYs/lib/libtools.a
